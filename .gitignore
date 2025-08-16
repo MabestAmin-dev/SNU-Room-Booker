@@ -1,0 +1,28 @@
+# Windows junk
+Thumbs.db
+Desktop.ini
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Local Chrome profile (DO NOT COMMIT)
+chrome_snu_profile/
+
+# Debug artifacts created by the bot
+snu_bot_*.png
+snu_bot_*.html
+snu_bot_exception_*.png
+snu_bot_exception_*.html
+
+# Logs
+*.log
+
+# Task-scheduler helper scripts (optional)
+run_snu_bot.bat
+
+# IDE
+.vscode/
+.idea/
