@@ -20,9 +20,6 @@ snu_bot_exception_*.html
 # Logs
 *.log
 
-# Task-scheduler helper scripts (optional)
-run_snu_bot.bat
-
 # IDE
 .vscode/
 .idea/
